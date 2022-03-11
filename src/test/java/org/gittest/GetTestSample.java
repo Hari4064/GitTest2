@@ -14,5 +14,9 @@ public class GetTestSample {
         System.out.println("test3");
 
 	}
+	private void test4() {
+		 System.out.println("test4");
+
+	}
 	
 }
